@@ -42,7 +42,7 @@ public class CricketTeam {
 		System.out.println("Foreign Players count:"+countcountry);
 		
 		Assert.assertEquals(1, countwicketkeeper);
-		System.out.println("Foreign Players count:"+countwicketkeeper);
+		System.out.println("wicketkeeper count:"+countwicketkeeper);
 
 	}
 }
